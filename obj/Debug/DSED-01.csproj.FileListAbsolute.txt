@@ -1,0 +1,10 @@
+C:\Users\OEM\OneDrive\Lv-6 PE\DSED-01\obj\Debug\DSED-01.csprojAssemblyReference.cache
+C:\Users\OEM\OneDrive\Lv-6 PE\DSED-01\obj\Debug\DSED_01.Form1.resources
+C:\Users\OEM\OneDrive\Lv-6 PE\DSED-01\obj\Debug\DSED_01.Properties.Resources.resources
+C:\Users\OEM\OneDrive\Lv-6 PE\DSED-01\obj\Debug\DSED-01.csproj.GenerateResource.cache
+C:\Users\OEM\OneDrive\Lv-6 PE\DSED-01\obj\Debug\DSED-01.csproj.CoreCompileInputs.cache
+C:\Users\OEM\OneDrive\Lv-6 PE\DSED-01\bin\Debug\DSED-01.exe.config
+C:\Users\OEM\OneDrive\Lv-6 PE\DSED-01\bin\Debug\DSED-01.exe
+C:\Users\OEM\OneDrive\Lv-6 PE\DSED-01\bin\Debug\DSED-01.pdb
+C:\Users\OEM\OneDrive\Lv-6 PE\DSED-01\obj\Debug\DSED-01.exe
+C:\Users\OEM\OneDrive\Lv-6 PE\DSED-01\obj\Debug\DSED-01.pdb
