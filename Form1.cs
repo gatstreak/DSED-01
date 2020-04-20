@@ -28,7 +28,7 @@ namespace DSED_01
             InitializeComponent();
         }
 
-        //button to start game
+        //button to start game 
 
         //! creates a new list
         private List<int> SuccessfulTries = new List<int>();
@@ -50,7 +50,7 @@ namespace DSED_01
         private void btnTry_Click(object sender, EventArgs e)
         {
             //sets random number parameters
-           
+            Bomb = myRandom.Next(1, 6);
             // checks if there are dupe numbers in list
             if (SuccessfulTries.Contains(Bomb))
             {
@@ -105,6 +105,7 @@ namespace DSED_01
 
         private void btnImune_Click(object sender, EventArgs e)
         {
+            Bomb = myRandom.Next(1, 6);
             // checks if there are dupe numbers in list
             if (SuccessfulTries.Contains(Bomb))
             {
