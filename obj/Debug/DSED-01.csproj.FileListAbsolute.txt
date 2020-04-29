@@ -8,3 +8,6 @@ C:\Users\OEM\OneDrive\Lv-6 PE\DSED-01\bin\Debug\DSED-01.exe
 C:\Users\OEM\OneDrive\Lv-6 PE\DSED-01\bin\Debug\DSED-01.pdb
 C:\Users\OEM\OneDrive\Lv-6 PE\DSED-01\obj\Debug\DSED-01.exe
 C:\Users\OEM\OneDrive\Lv-6 PE\DSED-01\obj\Debug\DSED-01.pdb
+C:\Users\OEM\OneDrive\Lv-6 PE\DSED-01\bin\Debug\dje\DSED-01.resources.dll
+C:\Users\OEM\OneDrive\Lv-6 PE\DSED-01\obj\Debug\DSED_01.Form1.dje.resources
+C:\Users\OEM\OneDrive\Lv-6 PE\DSED-01\obj\Debug\dje\DSED-01.resources.dll
